@@ -1,0 +1,42 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/welcome/welcome",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/room/room",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/create/create",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/join-home/join-home",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		  
+		{
+			"path": "pages/join/join",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/game/game",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"uniIdRouter": {}
+}

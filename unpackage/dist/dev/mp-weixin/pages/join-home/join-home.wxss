@@ -1,0 +1,27 @@
+
+.create.data-v-2599e927 {
+		width: 100vw;
+		height: 100vh;
+}
+.image image.data-v-2599e927 {
+		position: relative;
+		width: 100vw;
+		height: 100vh;
+}
+.form.data-v-2599e927 {
+		position: absolute;
+		width: 100vw;
+		height: 37vh;
+		background-image: linear-gradient(to right, #5b6468, gray);
+		margin-top: 30vh;
+}
+.title.data-v-2599e927 {
+		color: #fff;
+		text-align: center;
+		margin-bottom: 80rpx;
+		font-size: 40rpx;
+}
+.btn.data-v-2599e927 {
+		width: 35%;
+		margin: -2vh auto;
+}

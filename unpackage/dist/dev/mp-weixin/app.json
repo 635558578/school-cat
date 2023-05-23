@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/welcome/welcome",
+    "pages/room/room",
+    "pages/create/create",
+    "pages/join-home/join-home",
+    "pages/join/join",
+    "pages/game/game"
+  ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "获取您的位置信息用于地图的显示"
+    }
+  },
+  "usingComponents": {}
+}

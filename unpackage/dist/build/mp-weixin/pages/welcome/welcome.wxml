@@ -1,0 +1,1 @@
+<view class="box"><image class="image" src="https://pikacode.oss-cn-chengdu.aliyuncs.com/school_cat/welcome_bg_z.png" bindtap="{{a}}"></image></view>

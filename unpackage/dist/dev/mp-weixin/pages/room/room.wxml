@@ -1,0 +1,1 @@
+<view class="room data-v-49055c66"><image class="image data-v-49055c66" src="https://pikacode.oss-cn-chengdu.aliyuncs.com/school_cat/choose_methods_bg.png" mode=""></image><view bindtap="{{a}}" class="join data-v-49055c66">加入房间</view><view bindtap="{{b}}" class="create data-v-49055c66">创建房间</view></view>

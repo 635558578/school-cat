@@ -1,0 +1,30 @@
+
+.create.data-v-98f0e4ec {
+		width: 100vw;
+		height: 100vh;
+}
+.image image.data-v-98f0e4ec {
+		position: relative;
+		width: 100vw;
+		height: 100vh;
+}
+.form.data-v-98f0e4ec {
+		position: absolute;
+		width: 100vw;
+		height: 37vh;
+		background-image: linear-gradient(to right, #5b6468, gray);
+		margin-top: 30vh;
+}
+.title.data-v-98f0e4ec {
+		color: #fff;
+		text-align: center;
+		margin-bottom: 80rpx;
+		font-size: 70rpx;
+}
+.btn.data-v-98f0e4ec {
+		width: 35%;
+		margin: -2vh auto;
+}
+.uni-forms.data-v-98f0e4ec{
+		margin-right: 100rpx;
+}

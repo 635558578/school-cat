@@ -1,0 +1,51 @@
+
+.create.data-v-46bff7b1 {
+		width: 100vw;
+		height: 100vh;
+}
+.image image.data-v-46bff7b1 {
+		position: relative;
+		width: 100vw;
+		height: 100vh;
+}
+.startGame.data-v-46bff7b1 {
+		margin-top: 50vh;
+		text-align: center;
+		font-size: 40px;
+		font-family: "Lucida Calligraphy", cursive, serif, sans-serif;
+		color: #ddd;
+		position: relative;
+		z-index: 999;
+}
+.user.data-v-46bff7b1{
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+		margin: 0 50rpx;
+}
+.userimg.data-v-46bff7b1{
+		width: 150rpx;
+		height: 150rpx;
+		background-color: black;
+		border-radius: 50%;
+		background-size: 100% 100%;
+		background-repeat: no-repeat;
+}
+.scroll-Y.data-v-46bff7b1 {
+		height: 400rpx;
+}
+.scroll-view-item.data-v-46bff7b1 {
+		height: 300rpx;
+		line-height: 300rpx;
+		text-align: center;
+		font-size: 36rpx;
+}
+.view.data-v-46bff7b1 {
+		background-color: transparent;
+}
+.home.data-v-46bff7b1 {
+		position: relative;
+		top: 100rpx;
+		text-align: center;
+		color: #ddd;
+}
